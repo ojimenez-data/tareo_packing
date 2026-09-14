@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import io
 
-st.set_page_config(page_title="ETL Turnos", page_icon="⚙️")
+st.set_page_config(page_title="tareito_de_packingcito", page_icon="⚙️")
 st.title("⚙️ TAREO PACKING")
 st.caption("Sube tu Excel, aplica las transformaciones y descarga el archivo limpio.")
 
